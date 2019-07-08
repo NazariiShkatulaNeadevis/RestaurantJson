@@ -44,72 +44,58 @@
             "PhotoUrl" : "https://media-cdn.tripadvisor.com/media/photo-s/01/f9/82/e6/filename-dsc-0453-jpg.jpg"
         },
         {
-            "Id" : "5",
+            "Id" : "6",
             "CityId" : "4",
             "Name" : "Sponge",
             "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
             "PhotoUrl" : "https://media-cdn.tripadvisor.com/media/photo-s/01/f9/82/e6/filename-dsc-0453-jpg.jpg"
         },
         {
-            "Id" : "5",
+            "Id" : "7",
             "CityId" : "5",
             "Name" : "Souper Bowl",
             "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
             "PhotoUrl" : "https://media-cdn.tripadvisor.com/media/photo-s/01/f9/82/e6/filename-dsc-0453-jpg.jpg"
         },
         {
-            "Id" : "6",
+            "Id" : "8",
             "CityId" : "6",
             "Name" : "Sinus",
             "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
             "PhotoUrl" : "https://media-cdn.tripadvisor.com/media/photo-s/01/f9/82/e6/filename-dsc-0453-jpg.jpg"
         },
         {
-            "Id" : "7",
+            "Id" : "9",
             "CityId" : "3",
             "Name" : "L-Spot",
             "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
             "PhotoUrl" : "https://media-cdn.tripadvisor.com/media/photo-s/01/f9/82/e6/filename-dsc-0453-jpg.jpg"
         },
         {
-            "Id" : "8",
+            "Id" : "10",
             "CityId" : "4",
             "Name" : "Half Life",
             "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
             "PhotoUrl" : "https://media-cdn.tripadvisor.com/media/photo-s/01/f9/82/e6/filename-dsc-0453-jpg.jpg"
         },
         {
-            "Id" : "9",
+            "Id" : "11",
             "CityId" : "2",
             "Name" : "ExoPlanet",
             "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
             "PhotoUrl" : "https://media-cdn.tripadvisor.com/media/photo-s/01/f9/82/e6/filename-dsc-0453-jpg.jpg"
         },
         {
-            "Id" : "10",
+            "Id" : "12",
             "CityId" : "1",
             "Name" : "Elita",
             "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
             "PhotoUrl" : "https://i.pinimg.com/originals/5d/81/c4/5d81c434cce79a5ac71f358cd0d7ba64.jpg"
         },
         {
-            "Id" : "11",
+            "Id" : "13",
             "CityId" : "2",
             "Name" : "Dot Candy",
-            "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
-            "PhotoUrl" : "https://i.pinimg.com/originals/5d/81/c4/5d81c434cce79a5ac71f358cd0d7ba64.jpg"
-        },
-        {
-            "Id" : "12",
-            "CityId" : "5",
-            "Name" : "Cafe TM",
-            "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
-            "PhotoUrl" : "https://i.pinimg.com/originals/5d/81/c4/5d81c434cce79a5ac71f358cd0d7ba64.jpg"
-        },
-        {
-            "Id" : "13",
-            "CityId" : "6",
-            "Name" : "BigWay",
             "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
             "PhotoUrl" : "https://i.pinimg.com/originals/5d/81/c4/5d81c434cce79a5ac71f358cd0d7ba64.jpg"
         }
