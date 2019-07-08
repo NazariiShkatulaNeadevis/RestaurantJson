@@ -113,5 +113,13 @@
             "Description" : "Breakfast on workdays are form 7:00 AM to 10:30 AM.",
             "PhotoUrl" : "https://i.pinimg.com/originals/5d/81/c4/5d81c434cce79a5ac71f358cd0d7ba64.jpg"
         }
+    ],
+    "MenuItems":[
+        {
+            "Id" : "1",
+            "RestaurantId" : "1",
+            "Title" : "Aloo Tikki",
+            "Price" : 8
+        }
     ]
 }
