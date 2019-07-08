@@ -102,142 +102,143 @@
     ],
     "MenuItems":[
         {
-            "id" : 1,
-            "RestaurantId" : "1",
-            "Title" : "Aloo Tikki",
-            "Price" : 8
+            "id" : "1",
+            "restaurantId" : "1",
+            "title" : "Aloo Tikki",
+            "price" : 8
         },
         {
-            "id" : 2,
-            "RestaurantId" : "2",
-            "Title" : "Mango Chutney",
-            "Price" : 10
+            "id" : "2",
+            "restaurantId" : "2",
+            "title" : "Mango Chutney",
+            "price" : 10
         },
         {
-            "id" : 3,
-            "RestaurantId" : "3",
-            "Title" : "Samosas",
-            "Price" : 5
+            "id" : "3",
+            "restaurantId" : "3",
+            "title" : "Samosas",
+            "price" : 5
         },
         {
-            "id" : 4,
-            "RestaurantId" : "4",
-            "Title" : "Raita",
-            "Price" : 6.5
+            "id" : "4",
+            "restaurantId" : "4",
+            "title" : "Raita",
+            "price" : 6.5
         },
         {
-            "id" : 5,
-            "RestaurantId" : "5",
-            "Title" : "Chana Dal",
-            "Price" : 4.5
+            "id" : "5",
+            "restaurantId" : "5",
+            "title" : "Chana Dal",
+            "price" : 4.5
         },
         {
-            "id" : 6,
-            "RestaurantId" : "6",
-            "Title" : "Aloo Gobi",
-            "Price" : 9
+            "id" : "6",
+            "restaurantId" : "6",
+            "title" : "Aloo Gobi",
+            "price" : 9
         },
         {
-            "id" : 7,
-            "RestaurantId" : "7",
-            "Title" : "Tandoori Chicken",
-            "Price" : 7.5
+            "id" : "7",
+            "restaurantId" : "7",
+            "title" : "Tandoori Chicken",
+            "price" : 7.5
         },
         {
-            "id" : 8,
-            "RestaurantId" : "8",
-            "Title" : "Chicken Tikka Masala",
-            "Price" : 5
+            "id" : "8",
+            "restaurantId" : "8",
+            "title" : "Chicken Tikka Masala",
+            "price" : 5
         },
         {
-            "id" : 9,
-            "RestaurantId" : "9",
-            "Title" : "Butter Chicken",
-            "Price" : 9
+            "id" : "9",
+            "restaurantId" : "9",
+            "title" : "Butter Chicken",
+            "price" : 9
         },
         {
-            "id" : 10,
-            "RestaurantId" : "10",
-            "Title" : "Lamb Rogan Josh",
-            "Price" : 3.5
+            "id" : "10",
+            "restaurantId" : "10",
+            "title" : "Lamb Rogan Josh",
+            "price" : 3.5
         },
         {
-            "id" : 11,
-            "RestaurantId" : "11",
-            "Title" : "Rice Kheer",
-            "Price" : 10
+            "id" : "11",
+            "restaurantId" : "11",
+            "title" : "Rice Kheer",
+            "price" : 10
         },
         {
-            "id" : 12,
-            "RestaurantId" : "12",
-            "Title" : "Kulfi",
-            "Price" : 3
+            "id" : "12",
+            "restaurantId" : "12",
+            "title" : "Kulfi",
+            "price" : 3
         },
         {
-            "id" : 13,
-            "RestaurantId" : "13",
-            "Title" : "Korma",
-            "Price" : 8.5
+            "id" : "13",
+            "restaurantId" : "13",
+            "title" : "Korma",
+            "price" : 8.5
         },
         {
-            "id" : 14,
-            "RestaurantId" : "10",
-            "Title" : "Saag Paneer",
-            "Price" : 6.5
+            "id" : "14",
+            "restaurantId" : "10",
+            "title" : "Saag Paneer",
+            "price" : 6.5
         },
         {
-            "id" : 15,
-            "RestaurantId" : "9",
-            "Title" : "Tikka Masala",
-            "Price" : 5
+            "id" : "15",
+            "restaurantId" : "9",
+            "title" : "Tikka Masala",
+            "price" : 5
         },
         {
-            "id" : 16,
-            "RestaurantId" : "8",
-            "Title" : "Masala Chai",
-            "Price" : 11
+            "id" : "16",
+            "restaurantId" : "8",
+            "title" : "Masala Chai",
+            "price" : 11
         },
         {
-            "id" : 17,
-            "RestaurantId" : "7",
-            "Title" : "Korma",
-            "Price" : 10
+            "id" : "17",
+            "restaurantId" : "7",
+            "title" : "Korma",
+            "price" : 10
         },
         {
-            "id" : 18,
-            "RestaurantId" : "6",
-            "Title" : "Dal",
-            "Price" : 8
+            "id" : "18",
+            "restaurantId" : "6",
+            "title" : "Dal",
+            "price" : 8
         },
         {
-            "id" : 19,
-            "RestaurantId" : "5",
-            "Title" : "Biryani",
-            "Price" : 7
+            "id" : "19",
+            "restaurantId" : "5",
+            "title" : "Biryani",
+            "price" : 7
         },
         {
-            "id" : 20,
-            "RestaurantId" : "4",
-            "Title" : "Masala",
-            "Price" : 2
+            "id" : "20",
+            "restaurantId" : "4",
+            "title" : "Masala",
+            "price" : 2
         },
         {
-            "id" : 21,
-            "RestaurantId" : "3",
-            "Title" : "Barfi",
-            "Price" : 5
+            "id" : "21",
+            "restaurantId" : "3",
+            "title" : "Barfi",
+            "price" : 5
         },
         {
-            "id" : 22,
-            "RestaurantId" : "2",
-            "Title" : "Halwa",
-            "Price" : 4
+            "id" : "22",
+            "restaurantId" : "2",
+            "title" : "Halwa",
+            "price" : 4
         },
         {
-            "id" : 23,
-            "RestaurantId" : "1",
-            "Title" : "Gulab Jamun",
-            "Price" : 3
+            "id" : "23",
+            "restaurantId" : "1",
+            "title" : "Gulab Jamun",
+            "price" : 3
         }
+
     ]
 }
