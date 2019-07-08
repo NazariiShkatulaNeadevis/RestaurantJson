@@ -114,8 +114,7 @@
             "PhotoUrl" : "https://i.pinimg.com/originals/5d/81/c4/5d81c434cce79a5ac71f358cd0d7ba64.jpg"
         }
     ],
-    "MenuItems":
-    [
+    "MenuItems":[
         {
             "Id" : "1",
             "RestaurantId" : "1",
